@@ -5,12 +5,7 @@
     <WarnOn>3390;$(WarnOn)</WarnOn>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Optional.fs" />
-    <Compile Include="Float.fs" />
-    <Compile Include="TestResults.fs" />
-    <Compile Include="SchoolCodes.fs" />
-    <Compile Include="Student.fs" />
-    <Compile Include="Summary.fs" />
+    <Compile Include="ColorManagement.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
